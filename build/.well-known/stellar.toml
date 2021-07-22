@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GBIGAIUUH2TZUGMTD42TXO3HZF2KOC4RMXWJTDPBF4B3ARBB2M3YND7M"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="IoTeX"
+ORG_URL="https://iotex.io/"
+ORG_DESCRIPTION="$IOTX is the entryway to the most efficient, easiest, and most secure blockchain network in the world. IOTX’s network value increases as more and more devices are added to the network."
+ORG_TWITTER="@iotex_io"
+ORG_LOGO="https://i.ibb.co/zRVmwVW/2777.png"
+ORG_OFFICIAL_EMAIL="contact@iotex.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="IOTX"
+issuer="GBIGAIUUH2TZUGMTD42TXO3HZF2KOC4RMXWJTDPBF4B3ARBB2M3YND7M"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
+name="IoTeX"
+desc="The IOTX token connects the physical and digital world. Our rapidly evolving ecosystem aims to put billions of devices on the blockchain. IOTX is the lifeblood of this ambitious, interconnected, and profitable future."
 conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
-fixed_number=2000000
-max_number=2000000
+image="https://i.ibb.co/zRVmwVW/2777.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#IoTeX Token was issued using the open and inclusive Stellar blockchain network.
